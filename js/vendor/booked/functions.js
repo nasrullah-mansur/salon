@@ -61,7 +61,7 @@ var booked_load_calendar_date_booking_options;
 			var $button 			= $(this),
 				gotoMonth			= $button.attr('data-goto'),
 				booked_ajaxURL		= $('#data-ajax-url').html(),
-				thisCalendarWrap 	= $button.parents('.booked-calendar-wrap')
+				thisCalendarWrap 	= $button.parents('.booked-calendar-wrap'),
 				calendar_id			= $button.parents('table.booked-calendar').attr('data-calendar-id'),
 				args				= {'load':'calendar_month','gotoMonth':gotoMonth,'calendar_id':calendar_id};
 

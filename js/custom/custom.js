@@ -1498,3 +1498,46 @@ function itemsmenu(){
 	JACQUELINE_STORAGE['menuitems']['sc_menuitems_683513523'] = '482,480,479,457';
 	
 };
+
+
+  // Handler object;
+  const MENU_INFO = {
+	navLink: jQuery('nav ul li a[href^="#"]'),
+	activeClassName: 'test',
+	scrollTime: 400,
+	offsetTop: 200,
+}
+
+// Smooth Scroll;
+// MENU_INFO.navLink.click(function(e) {
+// 	e.preventDefault();
+// 	jQuery('html, body').animate({
+// 		scrollTop: jQuery(this.hash).offset().top - MENU_INFO.offsetTop, 
+// 	});
+// });
+
+// // Active link when scrolling;
+// function activeNavLink() {
+// 	let scrollFromTop = jQuery(this).scrollTop();
+// 	MENU_INFO.navLink.each(function(e) {
+// 		if(jQuery(this.hash).offset()) {
+// 			let sectionOffset = jQuery(this.hash).offset().top;
+// 			if(sectionOffset <= scrollFromTop + MENU_INFO.offsetTop) {
+// 				jQuery(this).parent().addClass(MENU_INFO.activeClassName);
+// 				jQuery(this).parent().siblings().removeClass(MENU_INFO.activeClassName);
+// 			}
+// 		}
+// 	});
+// } 
+
+
+// activeNavLink();
+// jQuery(window).scroll(function() {
+// 	activeNavLink(); 
+// });
+
+// jQuery('.choose_time a').on('click', function(e) {
+// 	e.preventDefault();
+// 	jQuery('.choose_time a').removeClass('sc_button_style_filled blue');
+// 	jQuery(this).addClass('sc_button_style_filled blue');
+// })

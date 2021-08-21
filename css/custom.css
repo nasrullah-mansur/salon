@@ -1117,3 +1117,142 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 .shortcodespg .sc_slider_swiper {
 	width:100%;
 }
+
+/* Custom CSS */
+html,
+body {
+	scroll-behavior: smooth;
+}
+
+.price_card a {
+	color: #fff !important;
+}
+
+.h-30 {
+	height: 30px;
+}
+
+.w_100 {
+	width: 100%;
+}
+
+.choose_time a {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+/* Table page */
+.product_table .table_content {
+	width: 100%;
+}
+
+.text_center {
+	text-align: center;
+}
+
+.product_table .table_content .product_item {
+	display: flex;
+	align-items: center;
+	padding: 50px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+.product_table .table_content .product_item .close {
+	width: 60px;
+}
+.product_table .table_content .product_item .close a {
+	font-size: 16px;
+	background-color: #f9a392;
+	width: 25px;
+	height: 25px;
+	display: block;
+	text-align: center;
+	line-height: 25px;
+	color: #fff;
+}
+
+.product_table .table_content .product_item .product {
+	display: flex;
+	align-items: center;
+	width: 350px;
+}
+
+.product_table .table_content .product_item .product img {
+	width: 60px;
+	margin-right: 15px;
+}
+
+.product_table .table_content .product_item .product h4 {
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.product_table .table_content .product_item .price {
+	width: 120px;
+	margin-left: auto;
+}
+
+.product_table .table_content .product_item .subtotal {
+	width: 90px;
+	text-align: right;
+	margin-left: 10px;
+}
+
+.product_table .table_content .product_item .price p,
+.product_table .table_content .product_item .subtotal p {
+	font-weight: 600;
+	font-size: 16px;
+	margin-bottom: 0;
+}
+
+.product_table .table_content .product_item .quantity  {
+	width: 80px;
+}
+.product_table .table_content .product_item .quantity input {
+	max-width: 80px;
+}
+
+.product_table .coupon {
+	display: flex;
+}
+
+
+.product_table .product_item.product_title p {
+	margin-bottom: 0 !important;
+	font-size: 16px !important;
+	font-weight: 700 !important;
+	color: #323232;
+}
+
+.cart_total {
+	background-color: #F8F8F8;
+	padding: 30px;
+	margin-top: 55px;
+}
+
+.cart_total h4 {
+	font-size: 18px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	font-weight: 700;
+	border-bottom: 1px solid #ddd;
+}
+
+.cart_total ul li {
+	display: flex;
+	justify-content: space-between;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.cart_total #total {
+	font-size: 18px;
+	font-weight: 700;
+	color: #323232;
+}
+
+
+
+
+
+
