@@ -102,7 +102,7 @@
                                                             <div id="sc_services_809_1" class="sc_services_item">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/370x370.jpg" data-title="Special Offers">
-                                                                        <a class="hover_icon hover_icon_link" href="single-post.html">
+                                                                        <a class="hover_icon hover_icon_link" href="service_details.php">
                                                                             <img alt="" src="images/370x370.jpg">
                                                                         </a>
                                                                     </div>
@@ -112,10 +112,10 @@
                                                                         <a href="services.html" rel="tag">Men Heir</a>
                                                                     </div>
                                                                     <h4 class="sc_services_item_title">
-                                                                        <a href="single-post.html">For MEN HAIR</a>
+                                                                        <a href="service_details.php">For MEN HAIR</a>
                                                                     </h4>
                                                                     <div class="sc_services_item_description">
-                                                                        <a href="single-post.html" class="sc_services_item_readmore sc_button sc_button_style_filled sc_button_size_medium">
+                                                                        <a href="service_details.php" class="sc_services_item_readmore sc_button sc_button_style_filled sc_button_size_medium">
                                                                             <div>
                                                                                 <span class="first">Learn more</span>
                                                                                 <span class="second">Learn more</span>
@@ -129,7 +129,7 @@
                                                             <div id="sc_services_809_2" class="sc_services_item">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/1170x700.jpg" data-title="Gift Cards Available">
-                                                                        <a class="hover_icon hover_icon_link" href="single-post.html">
+                                                                        <a class="hover_icon hover_icon_link" href="service_details.php">
                                                                             <img alt="" src="images/370x370.jpg">
                                                                         </a>
                                                                     </div>
@@ -139,10 +139,10 @@
                                                                         <a href="services.html" rel="tag">Ladies Beauty</a>
                                                                     </div>
                                                                     <h4 class="sc_services_item_title">
-                                                                        <a href="single-post.html">FOR LADIES BEAUTY</a>
+                                                                        <a href="service_details.php">FOR LADIES BEAUTY</a>
                                                                     </h4>
                                                                     <div class="sc_services_item_description">
-                                                                        <a href="single-post.html" class="sc_services_item_readmore sc_button sc_button_style_filled sc_button_size_medium">
+                                                                        <a href="service_details.php" class="sc_services_item_readmore sc_button sc_button_style_filled sc_button_size_medium">
                                                                             <div>
                                                                                 <span class="first">Learn more</span>
                                                                                 <span class="second">Learn more</span>
@@ -156,7 +156,7 @@
                                                             <div id="sc_services_809_3" class="sc_services_item">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/1170x700.jpg" data-title="Online Appointment">
-                                                                        <a class="hover_icon hover_icon_link" href="single-post.html">
+                                                                        <a class="hover_icon hover_icon_link" href="service_details.php">
                                                                             <img alt="" src="images/370x370.jpg">
                                                                         </a>
                                                                     </div>
@@ -166,10 +166,10 @@
                                                                         <a href="services.html" rel="tag">Kids Hairstyle</a>
                                                                     </div>
                                                                     <h4 class="sc_services_item_title">
-                                                                        <a href="single-post.html">FOR KIDS HAIRSTYLES</a>
+                                                                        <a href="service_details.php">FOR KIDS HAIRSTYLES</a>
                                                                     </h4>
                                                                     <div class="sc_services_item_description">
-                                                                        <a href="single-post.html" class="sc_services_item_readmore sc_button sc_button_style_filled sc_button_size_medium">
+                                                                        <a href="service_details.php" class="sc_services_item_readmore sc_button sc_button_style_filled sc_button_size_medium">
                                                                             <div>
                                                                                 <span class="first">Learn more</span>
                                                                                 <span class="second">Learn more</span>
@@ -209,8 +209,9 @@
                                                     <div class="text_column content_element ">
                                                         <div class="wrapper">
                                                             <p>Welcome to one of most relaxing salons, where our trained therapists offer you peace and tranquility whilst being treated. Come in and relax to soothing music as our therapists provide the perfect treatment. Our massage is specially designed to help people achieve the perfect mind-body harmony.</p>
-                                                            <p>Welcome to one of most relaxing salons, where our trained therapists offer you peace and tranquility whilst being treated. Come in and relax to soothing music as our therapists provide the perfect treatment. Our massage is specially designed to help people achieve the perfect mind-body harmony.</p>
+                                                            <p>Welcome to one of most relaxing salons, where our trained therapists offer you peace and tranquility whilst being treated. Come in and relax to soothing music as our therapists provide the perfect treatment.</p>
                                                         </div>
+                                                        <a href="booking.php" class="sc_button sc_button_square sc_button_style_border sc_button_size_base cu_mrg_1">Make appointment</a>
                                                     </div>
                                                     
                                                 </div>
@@ -303,7 +304,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <a href="contacts.html" class="sc_button sc_button_square sc_button_style_border sc_button_size_base cu_mrg_1">Read More</a>
+                                                    <a href="booking.php" class="sc_button sc_button_square sc_button_style_border sc_button_size_base cu_mrg_1">make appointment</a>
                                                     <div class="sc_empty_space em_height_3-8">
                                                         <span class="sc_empty_space_inner"></span>
                                                     </div>
@@ -316,9 +317,7 @@
                                                                 <div class="sc_promo_block_inner cu_pds_1">
                                                                     <div class="sc_promo_content">
                                                                         <h6 class="sc_title sc_title_regular sc_align_right custom_title_01">01</h6>
-                                                                        <h6 class="sc_title sc_title_regular cu_block_2">
-                                                                            <!-- <em> July 4, 2015  /  0 Comments</em> -->
-                                                                        </h6>
+                                                                        <h6 class="sc_title sc_title_regular cu_block_2"></h6>
                                                                         <h2 class="sc_title sc_title_regular">
                                                                             <p>
                                                                                 Massage<br/>
@@ -375,7 +374,7 @@
                                                                         <a class="eg-roosevelt-massage-element-4 eg-post-209" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-209 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-209" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-209" href="service_details.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -402,7 +401,7 @@
                                                                         <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Swedish massage" rel="category tag">Swedish massage</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-211 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-211" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-211" href="service_details.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -428,7 +427,7 @@
                                                                         <a class="eg-roosevelt-massage-element-4 eg-post-214" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-214 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-214" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-214" href="service_details.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -455,7 +454,7 @@
                                                                         <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-216 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-216" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-216" href="service_details.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -481,7 +480,7 @@
                                                                         <a class="eg-roosevelt-massage-element-4 eg-post-219" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-219 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-219" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-219" href="service_details.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -508,7 +507,7 @@
                                                                         <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-221 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-221" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-221" href="service_details.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -516,93 +515,15 @@
                                                             </div>
                                                         </li>
 
-                                                        <li class="filterall filter-gallery filter-sports-massage filter-sports-massage eg-roosevelt-massage-wrapper eg-post-id-224" data-date="1459262180">
-                                                            <div class="esg-media-cover-wrapper">
-                                                                <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/1920x1100.jpg" alt="">
-                                                                </div>
-                                                                <div class="esg-entry-cover">
-                                                                    <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-224 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">15 Reasons Why You Need to be Getting Massages</div>
-                                                                    <div class="esg-center eg-post-224 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-224 esgbox" href="images/1920x1100.jpg" lgtitle="15 Reasons Why You Need to be Getting Massages">
-                                                                            <i class="eg-icon-search"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                    <div class="esg-bottom eg-post-224 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-224" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-224" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-224 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-224" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-
-                                                        <li class="filterall filter-gallery filter-swedish-massage filter-swedish-massage eg-roosevelt-massage-wrapper eg-post-id-226" data-date="1459262255">
-                                                            <div class="esg-media-cover-wrapper">
-                                                                <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/1170x700.jpg" alt="">
-                                                                </div>
-                                                                <div class="esg-entry-cover">
-                                                                    <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-226 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Massage Therapy: 7 Ways to Manage Pain</div>
-                                                                    <div class="esg-center eg-post-226 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-226 esgbox" href="images/1170x700.jpg" lgtitle="Massage Therapy: 7 Ways to Manage Pain">
-                                                                            <i class="eg-icon-search"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                    <div class="esg-bottom eg-post-226 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-226" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-226" href="#" title="View all posts in Swedish massage" rel="category tag">Swedish massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-226 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-226" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-
-                                                        <li class="filterall filter-deep-tissue filter-gallery filter-massage-therapy filter-deep-tissue filter-massage-therapy eg-roosevelt-massage-wrapper eg-post-id-229" data-date="1459262301">
-                                                            <div class="esg-media-cover-wrapper">
-                                                                <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/1920x1100.jpg" alt="">
-                                                                </div>
-                                                                <div class="esg-entry-cover">
-                                                                    <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-229 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">The Top 5 Health Benefits of Regular Massage Therapy</div>
-                                                                    <div class="esg-center eg-post-229 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-229 esgbox" href="images/1920x1100.jpg" lgtitle="The Top 5 Health Benefits of Regular Massage Therapy">
-                                                                            <i class="eg-icon-search"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                    <div class="esg-bottom eg-post-229 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-229" href="#" title="View all posts in Deep tissue" rel="category tag">Deep tissue</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-229" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-229" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-229 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-229" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="clear h-30"></div>
                                                
                                                 <div class="sc_blogger_button sc_item_button">
-                                                    <a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base">
+                                                    <a href="gallery.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base">
                                                         <div>
-                                                            <span class="first">View All Posts</span>
-                                                            <span class="second">View All Posts</span>
+                                                            <span class="first">View All Photos</span>
+                                                            <span class="second">View All Photos</span>
                                                         </div>
                                                     </a>
                                                 </div>
@@ -702,7 +623,7 @@
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="esg-center eg-post-332 eg-eisenhower-massage-element-3-a esg-rollleft" data-delay="0.18">
-                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-332" href="single-product.html" target="_self">
+                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-332" href="product_details.php" target="_self">
                                                                                         <i class="eg-icon-forward"></i>
                                                                                     </a>
                                                                                 </div>
@@ -735,7 +656,7 @@
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="esg-center eg-post-337 eg-eisenhower-massage-element-3-a esg-rollleft" data-delay="0.18">
-                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-337" href="single-product.html" target="_self">
+                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-337" href="product_details.php" target="_self">
                                                                                         <i class="eg-icon-forward"></i>
                                                                                     </a>
                                                                                 </div>
@@ -768,7 +689,7 @@
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="esg-center eg-post-339 eg-eisenhower-massage-element-3-a esg-rollleft" data-delay="0.18">
-                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-339" href="single-product.html" target="_self">
+                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-339" href="product_details.php" target="_self">
                                                                                         <i class="eg-icon-forward"></i>
                                                                                     </a>
                                                                                 </div>
@@ -801,7 +722,7 @@
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="esg-center eg-post-342 eg-eisenhower-massage-element-3-a esg-rollleft" data-delay="0.18">
-                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-342" href="single-product.html" target="_self">
+                                                                                    <a class="eg-eisenhower-massage-element-3 eg-post-342" href="product_details.php" target="_self">
                                                                                         <i class="eg-icon-forward"></i>
                                                                                     </a>
                                                                                 </div>

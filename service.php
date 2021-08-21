@@ -36,20 +36,23 @@
     <div class="page_wrap">
         <?php
             include 'includes/header_mobile.php';
-            include 'includes/header.php';
+            include 'includes/header_2.php';
         ?>
-        <section class="top_panel_image">
-            <div class="top_panel_image_hover"></div>
-            <div class="top_panel_image_header">
-                <div class="top_panel_image_icon icon-book-open"></div>
-                <h1 class="top_panel_image_title">Booked Appointments</h1>
-                <div class="breadcrumbs">
-                    <a class="breadcrumbs_item home" href="index.html">Home</a>
-                    <span class="breadcrumbs_delimiter"></span>
-                    <span class="breadcrumbs_item current">Booked Appointments</span>
+        
+        <div class="top_panel_title top_panel_style_3 title_present breadcrumbs_present scheme_original">
+            <div class="top_panel_title_inner top_panel_inner_style_3 title_present_inner breadcrumbs_present_inner">
+                <div class="content_wrap">
+                    <h1 class="page_title">Shop</h1>
+                    <div class="breadcrumbs">
+                        <a class="breadcrumbs_item home" href="index.html">Home</a>
+                        <span class="breadcrumbs_delimiter"></span>
+                        <span class="breadcrumbs_item current">Shop</span>
+                    </div>
                 </div>
             </div>
-        </section>
+        </div>
+
+        
         <div class="page_content_wrap page_paddings_yes">
             <div class="content_wrap">
                 <div class="content">
@@ -109,13 +112,13 @@
                                                     <div class="h-30"></div>
 
                                                     <div class="sc_blogger_button sc_item_button">
-                                                        <a href="#" class="dark sc_button sc_button_square sc_button_style_filled sc_button_size_base">
+                                                        <a href="booking.php" class="dark sc_button sc_button_square sc_button_style_filled sc_button_size_base">
                                                             <div>
                                                                 <span class="first">back</span>
                                                                 <span class="second">back</span>
                                                             </div>
                                                         </a>
-                                                        <a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base">
+                                                        <a href="time.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base">
                                                             <div>
                                                                 <span class="first">Next</span>
                                                                 <span class="second">Next</span>

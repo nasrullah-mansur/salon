@@ -1501,12 +1501,12 @@ function itemsmenu(){
 
 
   // Handler object;
-  const MENU_INFO = {
-	navLink: jQuery('nav ul li a[href^="#"]'),
-	activeClassName: 'test',
-	scrollTime: 400,
-	offsetTop: 200,
-}
+//   const MENU_INFO = {
+// 	navLink: jQuery('nav ul li a[href^="#"]'),
+// 	activeClassName: 'test',
+// 	scrollTime: 400,
+// 	offsetTop: 200,
+// }
 
 // Smooth Scroll;
 // MENU_INFO.navLink.click(function(e) {
@@ -1536,8 +1536,9 @@ function itemsmenu(){
 // 	activeNavLink(); 
 // });
 
-// jQuery('.choose_time a').on('click', function(e) {
-// 	e.preventDefault();
-// 	jQuery('.choose_time a').removeClass('sc_button_style_filled blue');
-// 	jQuery(this).addClass('sc_button_style_filled blue');
-// })
+jQuery('.choose_time a').on('click', function(e) {
+	e.preventDefault();
+	jQuery('.choose_time a').removeClass('sc_button_style_filled blue');
+	jQuery(this).addClass('sc_button_style_filled blue');
+});
+

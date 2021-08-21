@@ -76,11 +76,11 @@
                 <div class="menu_main_wrap">
                     <nav class="menu_main_nav_area">
                         <ul class="menu_main_nav">
-                            <li class="menu-item"><a href="#about">About</a></li>
-                            <li class="menu-item"><a href="#services">Services</a></li>
-                            <li class="menu-item"><a href="#portfolio">Portfolio</a></li>
-                            <li class="menu-item"><a href="#testimonial">Testimonials</a></li>
-                            <li class="menu-item"><a href="#contact">Contact</a></li>
+                            <li class="menu-item"><a href="index.php#about">About</a></li>
+                            <li class="menu-item"><a href="index.php#services">Services</a></li>
+                            <li class="menu-item"><a href="index.php#portfolio">Portfolio</a></li>
+                            <li class="menu-item"><a href="index.php#testimonial">Testimonials</a></li>
+                            <li class="menu-item"><a href="index.php#contact">Contact</a></li>
                             <li class="menu-item"><a href="shop.php">Shop</a></li>
                         </ul>
                     </nav>

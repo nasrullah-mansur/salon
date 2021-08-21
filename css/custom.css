@@ -1128,6 +1128,10 @@ body {
 	color: #fff !important;
 }
 
+.h-15 {
+	height: 15px;
+}
+
 .h-30 {
 	height: 30px;
 }
@@ -1224,6 +1228,20 @@ body {
 	color: #323232;
 }
 
+.coupon_code {
+	padding: 30px;
+	margin-top: 55px;
+	border: 1px solid #ddd;
+}
+
+.coupon_code p {
+	margin-bottom: 0;
+}
+
+.coupon_code .form {
+	display: flex;
+}
+
 .cart_total {
 	background-color: #F8F8F8;
 	padding: 30px;
@@ -1251,7 +1269,48 @@ body {
 	color: #323232;
 }
 
+/* Place order */
+.place_order .billing_details,
+.place_order .make_payment {
+	border: 1px solid #ddd;
+	margin-top: 55px;
+	padding: 30px;
+}
 
+.place_order .billing_details h4,
+.place_order .make_payment h4 {
+	font-size: 18px;
+	font-weight: 700;
+	padding-bottom: 30px;
+}
+
+.place_order .billing_details label,
+.place_order .make_payment label {
+	display: block;
+}
+
+.place_order .billing_details input,
+.place_order .make_payment input {
+	width: 100%;
+}
+
+.place_order .billing_details select {
+	width: 100%;
+	padding: 15px;
+}
+
+.place_order .billing_details .select2-selection {
+	padding: 10px;
+	height: 50px;
+	background-color: #F4F4F4;
+	border: 0;
+	border-radius: 0;
+}
+
+.place_order .billing_details .select2-selection__arrow {
+	top: 10px !important;
+	right: 10px !important;
+}
 
 
 

@@ -3,7 +3,7 @@
         <div class="content_wrap">
             <div class="menu_button icon-menu"></div>
             <div class="logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="images/Logo.png" class="logo_main" alt="" width="238" height="56">
                 </a>
             </div>
