@@ -130,7 +130,7 @@
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/1170x700.jpg" data-title="Gift Cards Available">
                                                                         <a class="hover_icon hover_icon_link" href="service_details.php">
-                                                                            <img alt="" src="images/370x370.jpg">
+                                                                            <img alt="" src="images/370x370_2.jpg">
                                                                         </a>
                                                                     </div>
                                                                 </div>
@@ -157,7 +157,7 @@
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/1170x700.jpg" data-title="Online Appointment">
                                                                         <a class="hover_icon hover_icon_link" href="service_details.php">
-                                                                            <img alt="" src="images/370x370.jpg">
+                                                                            <img alt="" src="images/370x370_3.jpg">
                                                                         </a>
                                                                     </div>
                                                                 </div>
@@ -201,15 +201,20 @@
                                             <div class="columns_wrap sc_columns columns_nofluid cu_block_21">
                                                 <div class="column-1_2 sc_column_item">
                                                     <figure class="sc_image sc_image_shape_square">
-                                                        <img src="images/1920x1100.jpg" alt="" />
+                                                        <img src="images/about.jpg" alt="" />
                                                     </figure>
                                                 </div>
                                                 <div class="column-1_2 sc_column_item">
-                                                    <h2 class="sc_title sc_title_regular">WHY CHOOSE US</h2>
+                                                    <h2 class="sc_title sc_title_regular">ABOUT <br> CARINE HAIRSTYLIST</h2>
                                                     <div class="text_column content_element ">
                                                         <div class="wrapper">
-                                                            <p>Welcome to one of most relaxing salons, where our trained therapists offer you peace and tranquility whilst being treated. Come in and relax to soothing music as our therapists provide the perfect treatment. Our massage is specially designed to help people achieve the perfect mind-body harmony.</p>
-                                                            <p>Welcome to one of most relaxing salons, where our trained therapists offer you peace and tranquility whilst being treated. Come in and relax to soothing music as our therapists provide the perfect treatment.</p>
+
+                                                            <p>I have been in the hair business for more than 20 years. It is a passion that I developed in my early days back home in Haiti when my mom will do my hair and in turn I will do my little sister’s hair.</p>
+
+                                                            <p>Then a few neighbor started to take notice, soon the entire neighborhood wanted me to do their hair. After moving to the US, I wanted to rekindle that passion again. Today I own my own studio in Naples, FL. I have clients from Tampa, Saratoga, Ft Myers, and Broward/Dade county who travel miles to get my service.</p>
+
+                                                            <p>I’m really excited for this new venture and I hope to be able to serve you soon.</p>
+                                                            
                                                         </div>
                                                         <a href="booking.php" class="sc_button sc_button_square sc_button_style_border sc_button_size_base cu_mrg_1">Make appointment</a>
                                                     </div>
@@ -312,7 +317,7 @@
                                                 <div class="column-3_4 sc_column_item span_3">
                                                     <div class="sc_promo custom_promo_01 scheme_light sc_promo_size_large">
                                                         <div class="sc_promo_inner">
-                                                            <div class="sc_promo_image even"></div>
+                                                            <div class="sc_promo_image even" style="background-image: url(images/370x250.jpg);"></div>
                                                             <div class="sc_promo_block sc_align_left cu_block_1">
                                                                 <div class="sc_promo_block_inner cu_pds_1">
                                                                     <div class="sc_promo_content">

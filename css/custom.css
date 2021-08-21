@@ -1119,6 +1119,10 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 }
 
 /* Custom CSS */
+.sc_services_style_services-1.sc_services_type_images .sc_services_item_content {
+    margin-top: -6.5em;
+}
+
 html,
 body {
 	scroll-behavior: smooth;
