@@ -1318,4 +1318,311 @@ body {
 
 
 
+/* Logo section */
+.top_panel_middle {
+	background-color: #282828;
+}
+.top_panel_middle a {
+	color: #fff !important;
+}
+.top_panel_middle .logo img {
+	max-height: 55px;
+}
 
+
+/* Color */
+.page_content_wrap {
+	background-color: #282828;
+}
+
+.sc_custom_1459259915855,
+.sc_custom_1459343317996,
+.sc_custom_1459346050873 {
+	background-color: #282828 !important;
+}
+
+.scheme_original h1, 
+.scheme_original h2, 
+.scheme_original h3, 
+.scheme_original h4, 
+.scheme_original h5, 
+.scheme_original h6, 
+.scheme_original h1 a, 
+.scheme_original h2 a, 
+.scheme_original h3 a, 
+.scheme_original h4 a, 
+.scheme_original h5 a, 
+.scheme_original h6 a {
+	color: #fff;
+	font-weight: 500;
+}
+
+.scheme_original .body_wrap,
+.eg-eisenhower-massage-element-0 {
+	color: rgba(255, 255, 255, 0.65) !important;
+}
+
+.slider_wrap ul li {
+	position: relative;
+	z-index: 1;
+}
+
+.slider_wrap ul li .overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.4);
+	z-index: 2;
+}
+
+.slider_wrap .tp-caption {
+	position: relative;
+	z-index: 3;
+}
+
+.scheme_original input[type="submit"], 
+.scheme_original input[type="reset"], 
+.scheme_original input[type="button"], 
+.scheme_original button, 
+.scheme_original 
+.sc_button.sc_button_style_filled {
+	background-color: #FBAE37;
+}
+
+.scheme_original 
+.sc_services_style_services-1 
+.columns_wrap>[class*="column-"]:nth-child(2n) 
+.sc_services_item 
+.sc_services_item_readmore {
+	background-color: #FBAE37;
+	border-color: transparent;
+}
+
+.sc_custom_1459330954110 {
+	background-color: #FBAE37 !important;
+}
+
+.scheme_original .sc_item_subtitle {
+	color: #FBAE37;
+}
+
+.scheme_original .sc_item_title:after {
+	color: #FBAE37;
+}
+
+.home .custom_services_pricing {
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.scheme_original a {
+	color: #FBAE37;
+}
+
+.scheme_original .scroll_to_top {
+	background-color: #FBAE37;
+}
+
+.menu_main_nav>li>a {
+	font-size: 12px;
+	padding: 0 5px;
+	border-bottom: 1px solid;
+	letter-spacing: 3px;
+}
+
+.scheme_original .sc_button.sc_button_style_border {
+	color: #FBAE37;
+}
+
+.scheme_original .sc_button.sc_button_style_border {
+	border-color: #FBAE37;
+}
+
+.scheme_light .sc_promo_block {
+    background-color: #fbae37;
+}
+
+#testimonial {
+	position: relative;
+	z-index: 1;
+}
+
+#testimonial::after {
+	content: '';
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.appointment-btn {
+	background-color: #fbae37 !important;
+	color: #fff !important;
+	border-color: transparent !important;
+}
+
+.scheme_original body, 
+.scheme_original .page_wrap, 
+.scheme_original .copy_wrap, 
+.scheme_original .sidebar_cart, 
+.scheme_original .widget_area_inner, 
+.scheme_original #page_preloader {
+	background-color: transparent;
+}
+
+.scheme_original .widget_area_inner {
+	color: #fff;
+}
+
+.woocommerce .widget_price_filter .price_label span {
+	color: #fff;
+}
+
+.scheme_original .widgetised_column ul li a, .scheme_original .widget_area ul li a {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.scheme_original .widget_area_inner a, 
+.scheme_original .widget_area_inner ul li:before, 
+.scheme_original .widget_area_inner ul li a:hover, 
+.scheme_original .widget_area_inner button:before {
+	color: #fbae37;
+}
+
+.scheme_original .top_panel_title_inner {
+	background-color: #fbae37;
+}
+
+.scheme_original .woocommerce.widget_shopping_cart .buttons a, 
+.scheme_original .woocommerce .widget_price_filter .price_slider_amount .button, 
+.scheme_original .woocommerce .widget_shopping_cart .buttons a {
+	background-color: #fbae37;
+	border-color: transparent;
+}
+
+.scheme_original .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+.scheme_original .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #fbae37;
+}
+
+.scheme_original .woocommerce ul.products li.product .button, 
+.scheme_original .woocommerce-page ul.products li.product .button {
+	background-color: #fbae37;
+	border-color: transparent;
+}
+
+.article_style_stretch:not(.sidebar_show) .related_wrap:not(.related_wrap_empty) {
+	background-color: transparent;
+}
+
+.scheme_original .body_wrap, .eg-eisenhower-massage-element-0 {
+	background-color: #282828;
+}
+
+.scheme_original .sc_line {
+    border-color: #757575;
+}
+
+body #booked-profile-page input[type=submit].button-primary:hover, 
+body table.booked-calendar input[type=submit].button-primary:hover, 
+body .booked-modal input[type=submit].button-primary:hover, 
+body table.booked-calendar thead, 
+body table.booked-calendar thead th, 
+body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover, 
+body #booked-profile-page .booked-profile-appt-list .appt-block .google-cal-button, 
+body #booked-profile-page .booked-profile-header {
+	background-color: #fbae37 !important;
+}
+
+.scheme_original body table.booked-calendar td .date.tooltipster {
+	background-color: #fbae37 !important;
+}
+
+.cart_total {
+    background-color: transparent;
+    border: 1px solid #757575;
+}
+
+.place_order .billing_details, .place_order .make_payment {
+	border: 1px solid #757575;
+}
+
+.place_order .billing_details input, .place_order .make_payment input {
+	background-color: transparent;
+	color: #fff;
+}
+
+.scheme_original input[type="text"], .scheme_original input[type="tel"], .scheme_original input[type="number"], 
+.scheme_original input[type="email"], .scheme_original input[type="search"], 
+.scheme_original input[type="password"], .scheme_original select, .scheme_original textarea {
+	border-color: #757575;
+}
+
+.place_order .billing_details .select2-selection {
+	background-color: transparent;
+	color: #fff;
+	border: 2px solid #757575;
+}
+
+.scheme_original input[type="text"], 
+.scheme_original input[type="tel"], 
+.scheme_original input[type="number"], 
+.scheme_original input[type="email"], 
+.scheme_original input[type="search"], 
+.scheme_original input[type="password"], 
+.scheme_original select, .scheme_original textarea {
+	background-color: transparent;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #757575 !important;
+}
+
+.sc_button.blue {
+	background-color: #fbae37 !important;
+	border-color: transparent !important;
+}
+
+.eg-roosevelt-massage-element-2 {
+	background-color: #fbae37 !important;
+}
+
+.sc_services_item_title a {
+	color: #757575 !important;
+}
+
+.scheme_original .esg-grid .esg-filters .esg-filterbutton, 
+.scheme_original .esg-grid .esg-filters .esg-navigationbutton, 
+.scheme_original .esg-grid .esg-filters .esg-sortbutton, 
+.scheme_original .esg-grid .esg-filters .esg-cartbutton a {
+	color: #fff;
+}
+
+.esg-grid .esg-filters .esg-filterbutton, 
+.esg-grid .esg-filters .esg-navigationbutton, 
+.esg-grid .esg-filters .esg-sortbutton, 
+.esg-grid .esg-filters .esg-cartbutton a {
+	background-color: transparent;
+}
+
+.scheme_original .esg-grid .esg-filters .esg-navigationbutton:hover, 
+.scheme_original .esg-grid .esg-filters .esg-filterbutton:hover, 
+.scheme_original .esg-grid .esg-filters .esg-sortbutton:hover, 
+.scheme_original .esg-grid .esg-filters .esg-sortbutton-order:hover, 
+.scheme_original .esg-grid .esg-filters .esg-cartbutton a:hover, 
+.scheme_original .esg-grid .esg-filters .esg-filterbutton.selected {
+	color: #fbae37;
+	border-color: #fbae37;
+}
+
+.scheme_original .menu_main_nav>li>a {
+	border-color: transparent;
+}
+
+.scheme_original .menu_main_nav>li>a:hover {
+	border-color: inherit;
+}

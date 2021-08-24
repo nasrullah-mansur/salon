@@ -42,34 +42,35 @@
                 <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" data-version="5.2.6">
                     <ul>
                         <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/1-1-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <img src="" alt="">
                             <img src="images/1170x700.jpg" alt="" title="1" width="1920" height="758" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-1-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['-117','-117','-117','-167']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
-                                <img src="images/Logo_2.png" alt=""  data-ww="['auto','auto'" data-hh="['auto','auto'" data-no-retina>
+                                <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
                             </div>
-                            <div class="tp-caption black tp-resizeme appointment-btn" id="slide-1-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['142','142','142','163']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.php","delay":""}]' data-responsive_offset="on">make an appointment </div>
-                            <div class="overlay"></div>
+                            <div class="tp-caption black tp-resizeme" id="slide-1-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','6']" data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-123']" data-fontsize="['68','68','68','55']" data-lineheight="['90','90','90','55']" data-width="['465','465','465','466']" data-height="['91','91','91','none']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Visit one of our multiple </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-1-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']" data-y="['middle','middle','middle','middle']" data-voffset="['-5','-5','-5','-37']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">sessions of relaxation </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-1-layer-3" data-x="['center','center','center','center']" data-hoffset="['1','1','1','3']" data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','70']" data-fontsize="['17','17','17','20']" data-lineheight="['30','30','30','25']" data-width="['none','none','none','550']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">You owe yourself this moment. Make an appointment in just a click! </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-1-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['142','142','142','163']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.php","delay":""}]' data-responsive_offset="on">make an appointment </div>
                         </li>
-                        <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/1-1-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <img src="" alt="">
-                            <img src="images/1170x700_2.jpg" alt="" title="1" width="1920" height="758" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                            <div class="tp-caption tp-resizeme" id="slide-1-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['-117','-117','-117','-167']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
-                                <img src="images/Logo_2.png" alt=""  data-ww="['auto','auto'" data-hh="['auto','auto'" data-no-retina>
+                        <li data-index="rs-4" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/3-2-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <img src="images/1170x700_2.jpg" alt="" title="3" width="1920" height="758" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <div class="tp-caption tp-resizeme" id="slide-4-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-117','-117','-117','-173']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
+                                <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
                             </div>
-                            <div class="tp-caption black tp-resizeme appointment-btn" id="slide-1-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['142','142','142','163']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.php","delay":""}]' data-responsive_offset="on">make an appointment </div>
-                            <div class="overlay"></div>
+                            <div class="tp-caption black tp-resizeme" id="slide-4-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-130']" data-fontsize="['68','68','68','55']" data-lineheight="['90','90','90','55']" data-width="['465','465','465','466']" data-height="['91','91','91','none']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Welcome to our </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-4-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-5','-5','-5','-40']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Our services </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-4-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['61','61','61','61']" data-fontsize="['17','17','17','20']" data-lineheight="['30','30','30','25']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Give yourself a moment to relax. Find a minute to rejuvenate your body </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-4-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['142','142','142','142']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.php","delay":""}]' data-responsive_offset="on">make an appointment </div>
                         </li>
-                        <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/1-1-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <img src="" alt="">
-                            <img src="images/1170x700.jpg" alt="" title="1" width="1920" height="758" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                            <div class="tp-caption tp-resizeme" id="slide-1-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['-117','-117','-117','-167']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
-                                <img src="images/Logo_2.png" alt=""  data-ww="['auto','auto'" data-hh="['auto','auto'" data-no-retina>
+                        <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/2-3-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <img src="images/1170x700.jpg" alt="" title="2" width="1920" height="758" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <div class="tp-caption tp-resizeme" id="slide-3-layer-5" data-x="['center','center','center','center']" data-hoffset="['-200','-200','-150','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-158','-158','-158','-118']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
+                                <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
                             </div>
-                            <div class="tp-caption black tp-resizeme appointment-btn" id="slide-1-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','1']" data-y="['middle','middle','middle','middle']" data-voffset="['142','142','142','163']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.php","delay":""}]' data-responsive_offset="on">make an appointment </div>
-                            <div class="overlay"></div>
+                            <div class="tp-caption black tp-resizeme" id="slide-3-layer-1" data-x="['center','center','center','center']" data-hoffset="['-200','-200','-150','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-107','-107','-107','-79']" data-fontsize="['68','68','68','55']" data-lineheight="['90','90','90','55']" data-width="['465','465','465','466']" data-height="['91','91','91','none']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Modern and attractive </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-3-layer-2" data-x="['center','center','center','center']" data-hoffset="['-200','-200','-150','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-45','-45','-45','-24']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">HTML Template </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-3-layer-3" data-x="['center','center','center','center']" data-hoffset="['-200','-200','-150','0']" data-y="['middle','middle','middle','middle']" data-voffset="['23','23','23','43']" data-fontsize="['17','17','17','20']" data-lineheight="['30','30','30','25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Build your wellness business with clean and elegant template </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-3-layer-4" data-x="['center','center','center','center']" data-hoffset="['-200','-200','-150','0']" data-y="['middle','middle','middle','middle']" data-voffset="['102','102','102','127']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.php","delay":""}]' data-responsive_offset="on">make an appointment </div>
                         </li>
-                        
-                        
                     </ul>
                     <div class="tp-bannertimer tp-bottom"></div>
                 </div>
@@ -92,7 +93,10 @@
                                                 <div id="sc_services_809" class="sc_services sc_services_style_services-1 sc_services_type_images cu_fullwidth">
                                                     <h6 class="sc_services_subtitle sc_item_subtitle">Welcome to our</h6>
                                                     <h2 class="sc_services_title sc_item_title">Our Services</h2>
-                                                    
+                                                    <div class="sc_services_descr sc_item_descr">
+                                                        You deserve better than a rushed massage by a rookie therapist in <br/>
+                                                        a place that makes you feel more stressed
+                                                    </div>
                                                     <div class="sc_columns columns_wrap">
                                                         <div class="column-1_3 column_padding_bottom">
                                                             <div id="sc_services_809_1" class="sc_services_item">
@@ -352,7 +356,7 @@
                                             </div>
                                             <div id="sc_blogger_321" class="sc_blogger layout_masonry_4 template_masonry sc_blogger_horizontal no_description">
                                                 <h6 class="sc_blogger_subtitle sc_item_subtitle">From The work</h6>
-                                                <h2 class="sc_blogger_title sc_item_title">latest Work</h2>
+                                                <h2 class="sc_blogger_title sc_item_title">latest Word</h2>
                                                 <div id="esg-grid-4-1" class="esg-grid">
                                                     
                                                     <div class="esg-clear-no-height"></div>
@@ -370,8 +374,15 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
-                                                                    
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-209" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-209" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
+                                                                    </div>
+                                                                    <div class="esg-center eg-post-209 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-209" href="service_details.php" target="_self">
+                                                                            <i class="eg-icon-link"></i>
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -389,7 +400,16 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    <div class="esg-bottom eg-post-211 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Swedish massage" rel="category tag">Swedish massage</a>
+                                                                    </div>
+                                                                    <div class="esg-center eg-post-211 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-211" href="service_details.php" target="_self">
+                                                                            <i class="eg-icon-link"></i>
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -407,7 +427,15 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    <div class="esg-bottom eg-post-214 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-214" href="#" title="View all posts in Deep tissue" rel="category tag">Deep tissue</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-214" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>
+                                                                    </div>
+                                                                    <div class="esg-center eg-post-214 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-214" href="service_details.php" target="_self">
+                                                                            <i class="eg-icon-link"></i>
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -425,7 +453,16 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    <div class="esg-bottom eg-post-216 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
+                                                                    </div>
+                                                                    <div class="esg-center eg-post-216 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-216" href="service_details.php" target="_self">
+                                                                            <i class="eg-icon-link"></i>
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -443,7 +480,15 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    <div class="esg-bottom eg-post-219 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-219" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-219" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
+                                                                    </div>
+                                                                    <div class="esg-center eg-post-219 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-219" href="service_details.php" target="_self">
+                                                                            <i class="eg-icon-link"></i>
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -461,7 +506,16 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    <div class="esg-bottom eg-post-221 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Deep tissue" rel="category tag">Deep tissue</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
+                                                                    </div>
+                                                                    <div class="esg-center eg-post-221 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-221" href="service_details.php" target="_self">
+                                                                            <i class="eg-icon-link"></i>
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </li>

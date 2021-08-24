@@ -108,15 +108,8 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-209" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-209" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-209 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-209" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -134,16 +127,8 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-211 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-211" href="#" title="View all posts in Swedish massage" rel="category tag">Swedish massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-211 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-211" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
+                                                                    
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -161,15 +146,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-214 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-214" href="#" title="View all posts in Deep tissue" rel="category tag">Deep tissue</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-214" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-214 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-214" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -187,16 +164,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-216 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-216" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-216 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-216" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -214,15 +182,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-219 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-219" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-219" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-219 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-219" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -240,16 +200,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-221 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Deep tissue" rel="category tag">Deep tissue</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-221" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-221 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-221" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -267,15 +218,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-224 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-224" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-224" href="#" title="View all posts in Sports massage" rel="category tag">Sports massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-224 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-224" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -293,15 +236,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-226 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-226" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-226" href="#" title="View all posts in Swedish massage" rel="category tag">Swedish massage</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-226 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-226" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -319,16 +254,7 @@
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
-                                                                    <div class="esg-bottom eg-post-229 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-229" href="#" title="View all posts in Deep tissue" rel="category tag">Deep tissue</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-229" href="#" title="View all posts in Gallery" rel="category tag">Gallery</a>,
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-229" href="#" title="View all posts in Massage therapy" rel="category tag">Massage therapy</a>
-                                                                    </div>
-                                                                    <div class="esg-center eg-post-229 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-229" href="single-post.html" target="_self">
-                                                                            <i class="eg-icon-link"></i>
-                                                                        </a>
-                                                                    </div>
+                                                                    <div class="esg-bottom eg-post-209 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46"></div>
                                                                 </div>
                                                             </div>
                                                         </li>
